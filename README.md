@@ -1,4 +1,4 @@
-# my-project
+# 仿饿了么商家页————基于Vue2实现的移动端单页应用饿了么的商家页面
 
 > A Vue.js project
 
